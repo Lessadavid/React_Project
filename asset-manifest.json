@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React_Project/static/css/main.d242f133.css",
+    "main.js": "/React_Project/static/js/main.49e33939.js",
+    "static/js/787.1f0ca4ea.chunk.js": "/React_Project/static/js/787.1f0ca4ea.chunk.js",
+    "static/media/image 2.svg": "/React_Project/static/media/image 2.1ae3f29631b5e90747c6ad151fc98591.svg",
+    "static/media/approver.svg": "/React_Project/static/media/approver.dda2bf01a5939305e1dbe2674f7dafd5.svg",
+    "static/media/Login.jpg": "/React_Project/static/media/Login.7c4f9ef97f3cc15b9c14.jpg",
+    "static/media/rm-home1.svg": "/React_Project/static/media/rm-home1.b6c4bd4fa78da509c264418ef2502b42.svg",
+    "static/media/forgetpass.png": "/React_Project/static/media/forgetpass.d9a75aa27379c99b2a47.png",
+    "static/media/adminprofile.png": "/React_Project/static/media/adminprofile.b8c9905e0392a87ff964.png",
+    "static/media/logoonly.svg": "/React_Project/static/media/logoonly.607b9478833e3ce5851938038c41ff9b.svg",
+    "static/media/indexlogo.svg": "/React_Project/static/media/indexlogo.75bc71bc4c7bd6fe2e50b7a941df6289.svg",
+    "static/media/logo.svg": "/React_Project/static/media/logo.e27ed6e6bbfc6f420ea3ec22dfa2c479.svg",
+    "static/media/password.svg": "/React_Project/static/media/password.d8c8b5538ad6a45e5f0b6d455bac07dc.svg",
+    "index.html": "/React_Project/index.html",
+    "static/media/redcircle.svg": "/React_Project/static/media/redcircle.299a9ebb7ea9624e512259d3e2f776ea.svg",
+    "main.d242f133.css.map": "/React_Project/static/css/main.d242f133.css.map",
+    "main.49e33939.js.map": "/React_Project/static/js/main.49e33939.js.map",
+    "787.1f0ca4ea.chunk.js.map": "/React_Project/static/js/787.1f0ca4ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d242f133.css",
+    "static/js/main.49e33939.js"
+  ]
+}
